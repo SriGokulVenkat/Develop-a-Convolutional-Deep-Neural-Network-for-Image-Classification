@@ -36,9 +36,9 @@ Test the model with a new image and display the actual and predicted class label
 
 ## PROGRAM
 
-### Name:S.R.AMIRTHA
+### Name:M Sri Gokul Venkat 
 
-### Register Number:212224220009
+### Register Number:212224040324
 
 ```
 import torch
